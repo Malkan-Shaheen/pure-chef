@@ -1,0 +1,8 @@
+{
+  "name": "PURE Chef AI",
+  "description": "An AI-powered ingredient scanner and recipe generator that helps you cook amazing meals with what you already have in your fridge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
